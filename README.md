@@ -5,7 +5,8 @@ This repository includes the following files:
 Used to check the sizes of the CSV files and sort them, in order to select the datasets I will work on in Part 1 (based on the coursework instructions).<br>
 
 3. __Datasets for Part 1:<br>__
-Wikidata editor network datasets taken from: [https://emckclac-my.sharepoint.com/personal/k1801675_kcl_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk1801675%5Fkcl%5Fac%5Fuk%2FDocuments%2Fdatasets%2Ezip&parent=%2Fpersonal%2Fk1801675%5Fkcl%5Fac%5Fuk%2FDocuments&ga=1](url)<br>
+Wikidata editor network datasets taken from:<br> [https://emckclac-my.sharepoint.com/personal/k1801675_kcl_ac_uk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fk1801675%5Fkcl%5Fac%5Fuk%2FDocuments%2Fdatasets%2Ezip&parent=%2Fpersonal%2Fk1801675%5Fkcl%5Fac%5Fuk%2FDocuments&ga=1](url)<br>
+
 My selections:
 - _Small_: BOT_REQUESTS.csv (263 KB)  
 - _Medium_: ADMINISTRATORS.csv (1.75 MB) 
