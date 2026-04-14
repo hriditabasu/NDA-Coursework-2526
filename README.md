@@ -23,3 +23,9 @@ I chose the years 2011-2016 as they have location coordinates which we need for 
 5. __Part 2.ipynb<br>__
 Solution of Part 2 (Spatial road networks).<br>
 Consists of 3 tasks: Task A, Task B and Task C.
+
+
+Instructions:
+1. Load the Jupyter notebooks 'Part 1' and 'Part 2' in Google Colab or Pycharm (or equivalent). 
+2. Load the datasets from 'Datasets for Part 1' and 'Datasets for Part 2' in the same directory as the notebooks.
+3. Run the notebooks.
